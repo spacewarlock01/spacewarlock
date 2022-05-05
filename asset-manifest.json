@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/spacewarlock/static/css/main.db191b05.chunk.css",
+    "main.js": "/spacewarlock/static/js/main.febc696f.chunk.js",
+    "main.js.map": "/spacewarlock/static/js/main.febc696f.chunk.js.map",
+    "runtime-main.js": "/spacewarlock/static/js/runtime-main.26eb297e.js",
+    "runtime-main.js.map": "/spacewarlock/static/js/runtime-main.26eb297e.js.map",
+    "static/js/2.9ee84522.chunk.js": "/spacewarlock/static/js/2.9ee84522.chunk.js",
+    "static/js/2.9ee84522.chunk.js.map": "/spacewarlock/static/js/2.9ee84522.chunk.js.map",
+    "static/js/3.d569a9db.chunk.js": "/spacewarlock/static/js/3.d569a9db.chunk.js",
+    "static/js/3.d569a9db.chunk.js.map": "/spacewarlock/static/js/3.d569a9db.chunk.js.map",
+    "index.html": "/spacewarlock/index.html",
+    "static/css/main.db191b05.chunk.css.map": "/spacewarlock/static/css/main.db191b05.chunk.css.map",
+    "static/js/2.9ee84522.chunk.js.LICENSE.txt": "/spacewarlock/static/js/2.9ee84522.chunk.js.LICENSE.txt",
+    "static/media/AboutUS.2599454b.svg": "/spacewarlock/static/media/AboutUS.2599454b.svg",
+    "static/media/CTF.104f5349.png": "/spacewarlock/static/media/CTF.104f5349.png",
+    "static/media/Contact.d0709220.svg": "/spacewarlock/static/media/Contact.d0709220.svg",
+    "static/media/Logo3.53e10313.png": "/spacewarlock/static/media/Logo3.53e10313.png",
+    "static/media/Rules.5edcb967.svg": "/spacewarlock/static/media/Rules.5edcb967.svg",
+    "static/media/Sargam_profile.6a73df28.jpg": "/spacewarlock/static/media/Sargam_profile.6a73df28.jpg",
+    "static/media/content.css": "/spacewarlock/static/media/Spacewarlock_Background_Image.247c7b29.jpg",
+    "static/media/Cards_nav.css": "/spacewarlock/static/media/ctf-bg2.50219b81.jpeg",
+    "static/media/kshitij_profile.59eb29a3.jpeg": "/spacewarlock/static/media/kshitij_profile.59eb29a3.jpeg",
+    "static/media/Signin.css": "/spacewarlock/static/media/loginbg.1fb68839.jpeg",
+    "static/media/prachi_profile.2840edc5.jpeg": "/spacewarlock/static/media/prachi_profile.2840edc5.jpeg",
+    "static/media/sanchit_profile.30f739f9.jpg": "/spacewarlock/static/media/sanchit_profile.30f739f9.jpg",
+    "static/media/sanya_profile.3d97b76a.jpeg": "/spacewarlock/static/media/sanya_profile.3d97b76a.jpeg",
+    "static/media/yogita_profile.4796de94.png": "/spacewarlock/static/media/yogita_profile.4796de94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26eb297e.js",
+    "static/js/2.9ee84522.chunk.js",
+    "static/css/main.db191b05.chunk.css",
+    "static/js/main.febc696f.chunk.js"
+  ]
+}
